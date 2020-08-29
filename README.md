@@ -1,0 +1,2 @@
+# locallibrary
+ First Django project
